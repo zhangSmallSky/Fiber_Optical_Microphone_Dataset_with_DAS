@@ -10,3 +10,7 @@ Original Data Source: The raw audio for the mechanical fault dataset comes from 
 The dataset comprises eight types of events: fan_abnormal, fan_normal, pump_abnormal, pump_normal, slider_abnormal, slider_normal, valve_abnormal, and valve_normal. Each audio clip has a duration of 10 seconds.
 
 The acoustic signals captured by the fiber optic microphones were subsequently processed using the short-time Fourier transform (STFT) to generate their corresponding time-frequency spectrograms. As shown in the figure, the horizontal axis denotes time (0–10 s), the vertical axis represents frequency (0–6 kHz), and the color intensity corresponds to the amplitude of the acoustic signal.
+
+Each type of event contains 80 training samples and 20 test samples.
+
+Due to file upload limitations, we stored the data on Google Drive and Baidu Netdisk (links are provided in the raw data file).
