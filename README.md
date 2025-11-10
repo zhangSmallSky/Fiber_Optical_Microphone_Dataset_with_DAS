@@ -13,4 +13,4 @@ The acoustic signals captured by the fiber optic microphones were subsequently p
 
 Each type of event contains 80 training samples and 20 test samples.
 
-Due to file upload limitations, we stored the data on Google Drive and Baidu Netdisk (links are provided in the raw data file).
+Due to file upload limitations, we stored the data on Google Drive and Baidu Netdisk (links are provided in the Data.txt).
